@@ -133,7 +133,7 @@
     "@storybook/addons": "5.0.1",
     "@storybook/react": "5.0.8",
     "@storybook/theming": "5.0.8",
-    "autoprefixer": "^6.3.6",
+    "autoprefixer": "^9.0.0",
     "autosuggest-highlight": "^3.1.1",
     "babel-eslint": "^7.0.0",
     "babel-loader": "^8.0.5",
