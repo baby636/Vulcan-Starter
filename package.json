@@ -59,7 +59,7 @@
     "graphql-tag": "^2.9.2",
     "graphql-tools": "^4.0.4",
     "graphql-type-json": "^0.1.4",
-    "graphql-voyager": "^1.0.0-rc.26",
+    "graphql-voyager": "^1.0.0",
     "handlebars": "^4.7.7",
     "he": "^1.1.1",
     "history": "^3.0.0",
