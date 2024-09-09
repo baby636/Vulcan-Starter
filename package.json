@@ -154,7 +154,7 @@
     "react-keyboard-event-handler": "1.3.2",
     "scrap-meteor-loader": "0.0.1",
     "shelljs": "^0.8.3",
-    "start-server-and-test": "^1.10.6",
+    "start-server-and-test": "^2.0.7",
     "storybook-react-router": "^1.0.5",
     "style-loader": "^0.23.1",
     "vulcan-loader": "0.0.1",
