@@ -127,7 +127,7 @@
     "@babel/preset-react": "^7.0.0",
     "@material-ui/core": "^4.5.1",
     "@material-ui/icons": "^4.9.1",
-    "@storybook/addon-actions": "5.0.8",
+    "@storybook/addon-actions": "9.0.0",
     "@storybook/addon-knobs": "5.0.8",
     "@storybook/addon-links": "5.0.8",
     "@storybook/addons": "5.0.1",
