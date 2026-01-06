@@ -137,7 +137,7 @@
     "autosuggest-highlight": "^3.1.1",
     "babel-eslint": "^7.0.0",
     "babel-loader": "^8.0.5",
-    "cypress": "^4.12.1",
+    "cypress": "^13.0.0",
     "eslint": "^3.10.1",
     "eslint-config-airbnb": "^13.0.0",
     "eslint-config-meteor": "0.0.9",
